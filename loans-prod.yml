@@ -1,0 +1,7 @@
+loans:
+  message: "Loans PROD API"
+  contactDetails:
+    name: "Rajiv Musunuru"
+    email: "musunuru.rajiv@gmail.com"
+  support:
+    - "sre@gmail.com"

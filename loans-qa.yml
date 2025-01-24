@@ -1,0 +1,7 @@
+loans:
+  message: "Loans QA API"
+  contactDetails:
+    name: "Rajiv Musunuru"
+    email: "musunuru.rajiv@gmail.com"
+  support:
+    - "qa@gmail.com"
