@@ -1,5 +1,5 @@
 loans:
-  message: "Loans PROD API. This config info is coming from ms-config"
+  message: "Loans PROD API. This config info is coming from ms-config. Edit to test refresh"
   contactDetails:
     name: "Rajiv Musunuru"
     email: "musunuru.rajiv@gmail.com"
