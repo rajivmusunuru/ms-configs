@@ -1,5 +1,5 @@
 loans:
-  message: "Loans PROD API. This config info is coming from ms-config. Edit to test refresh with RabbitMQ"
+  message: "Loans PROD API. This config info is coming from ms-config. Edit for busrefresh test"
   contactDetails:
     name: "Rajiv Musunuru"
     email: "musunuru.rajiv@gmail.com"
